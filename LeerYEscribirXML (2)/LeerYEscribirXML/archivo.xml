@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bicicletas>
+<bicicleta id="1">
+<marca>Orbea</marca>
+<modelo>Oiz</modelo>
+<anyo>2024</anyo>
+<color>negra</color>
+</bicicleta>
+</bicicletas>
