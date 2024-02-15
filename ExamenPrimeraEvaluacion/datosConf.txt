@@ -1,0 +1,4 @@
+localhost
+root
+Arian041229
+examenAcceso
